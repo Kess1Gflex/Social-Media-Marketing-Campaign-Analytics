@@ -56,9 +56,9 @@ This dataset contains over 6,000 social media campaign records across platforms 
 
 ### Power BI Dashboard
 
-![Audience_Dashboard.png](Audience_Dashboard.png)
+![Audience_Dashboard.png](Behaviour_Dashboard.png)
 
-![Performance_Dashboard.png](Performance_Dashboard.png)
+![Performance_Dashboard.png](Strategic_Dashboard.png)
 
 ## Insights & Recommendations
 
